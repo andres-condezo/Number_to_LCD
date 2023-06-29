@@ -1,12 +1,7 @@
-![BrightCoders Logo](img/logo-bc.png)
-
 # Number to LCD
 
 ![cover](img/cover.jpg)
 <span>Photo by <a href="https://unsplash.com/@joshsorenson?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Josh Sorenson</a> on <a href="https://unsplash.com/s/photos/lcd-digit?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
-
-El propósito de este ejercicio es conocer tus habilidades de programación, puedes utilizar el lenguaje que prefieras. Tu solución deberá mostrar el uso de los principios de la programación orientada a objetos. Es decir, deberá estar organizado en clases con métodos y atributos.
-
 
 ## Requerimientos funcionales
 
@@ -19,8 +14,6 @@ Escribe una programa que dado un número entero (con un número arbitrario de d�
  ||_  _|  | _||_|  ||_| _|  
  ```
 (cada digito tiene una altura de 3 líneas)
-
-**NOTA:** Por favor, **NO** leer la segunda parte hasta completar la primera. Uno de los propósitos de esta kata es practicar la refactorización adaptando el código a cambios en los requerimientos.
 
 ### Parte 2
 
